@@ -1,0 +1,59 @@
+/* GENERIC STYLES */
+
+body{
+    overflow-x: hidden;
+    overflow-y: auto;
+    /* background-color: rgb(3 169 244 / 35%); */
+    background-size: cover;
+}
+
+.container{
+    background-color: #ffffff6e;
+    padding-bottom: 30px;
+}
+
+.product-card{
+    text-align: left;
+}
+
+.product-card .card-body{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.product-card span{
+    margin: 0;
+    padding: 0;
+    display: block;
+    width: 100%;
+}
+
+.product-card button{
+    margin-top: 20px;
+}
+
+
+/* STORE PAGE STYLES */
+body.store-page{
+    background: initial;
+    background-size: initial;
+}
+
+.add-item-button{
+    position: absolute;
+    bottom: 20px;
+    width: calc(100% - 40px);
+}
+
+/* LANDING PAGE STYLES */
+
+.landing-page .landingpage-link{
+    padding: 10px 15px;
+    border: 1px solid #000000;
+    border-radius: 30px;
+    background-color: #ffffff;
+    color: #000000;
+    text-decoration: none;
+    margin: 5px;
+}

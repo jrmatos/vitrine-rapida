@@ -1,0 +1,2 @@
+export const MAX_AMOUNT_OF_PRODUCTS = 60;
+export const MAX_AMOUNT_OF_CATEGORIES = 60;
