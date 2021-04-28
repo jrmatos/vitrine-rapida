@@ -8,9 +8,6 @@ To understand it little better, you can see the promotional video:
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/SrLrh_-98hk/0.jpg)](https://www.youtube.com/watch?v=rLrh_-98hk)
 
-
-## Stack
-
 ### Frontend
 
 - React
