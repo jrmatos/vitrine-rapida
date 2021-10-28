@@ -6,7 +6,7 @@ For some reasons, the business was not succesful but I decided to make public th
 
 To understand it a little better, you can see the promotional YouTube video:
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/SrLrh_-98hk/0.jpg)](https://www.youtube.com/watch?v=rLrh_-98hk)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/SrLrh_-98hk/0.jpg)](https://www.youtube.com/watch?v=SrLrh_-98hk)
 
 ### Frontend
 
